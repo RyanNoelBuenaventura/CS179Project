@@ -2,7 +2,7 @@
 # Group 47
 
 ## Setup
-pip install numpy pandas
+pip install -r requirements.txt
 
 Place student-mat.csv in the same folder as the notebook before running
 
